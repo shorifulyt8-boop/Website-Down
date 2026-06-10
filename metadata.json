@@ -1,0 +1,6 @@
+{
+  "name": "Site Down Notice",
+  "description": "A professionally designed service suspended notice indicating unpaid developer fees and immediate steps to restore access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
